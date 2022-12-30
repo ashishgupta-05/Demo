@@ -3,6 +3,6 @@ public class file3{
         int a=5;
         int b=4;
         int sum z = a + b;
-        Sysytem.out.println(a, b);
+        Sysytem.out.println(sum);
     }
 }
